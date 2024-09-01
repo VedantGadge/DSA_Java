@@ -18,7 +18,7 @@ public class insertion_sort1 {
 
 
         // In selection sort, we basically make two parts of the array: sorted n unsorted,n we compare the element closest to the boundary in the unsorted part,
-        // n check with each element of the sorted part n place it at its right full place.
+        // n check with each element of the sorted part n place it at its rightful place. 
 
         for(int i = 0;i<arr.length;i++)
         {
