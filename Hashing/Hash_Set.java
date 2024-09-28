@@ -1,8 +1,7 @@
-package Hashing;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class Hashset {
+public class Hash_Set {
     public static void main(String[] args) {
         HashSet<Integer> set = new HashSet<>(); 
 
