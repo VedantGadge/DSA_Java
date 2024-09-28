@@ -5,6 +5,9 @@ public class Hash_Set {
     public static void main(String[] args) {
         HashSet<Integer> set = new HashSet<>(); 
 
+        // Time complexity of HashSet in every operation: Creation , Searching , Removing is 
+        // only O(1).
+
         //Adding elements
         set.add(1);
         set.add(2);
